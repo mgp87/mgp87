@@ -23,4 +23,4 @@
 - :telescope: Currently working as Salesforce Architect and GenAI CTO.
 - :seedling: Learning new languages and technologies.
 - :zap: I build things in my free time.
-- :mailbox: Reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miguelgironp/)
+- :mailbox: Reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miguelgironp/)
