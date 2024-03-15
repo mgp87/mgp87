@@ -9,12 +9,13 @@
   <a href="your-X-URL">
     <img src="https://img.shields.io/badge/mgp_87-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter X Badge"/>
   </a>
-  <a href="your-Instagram-URL">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
 </div>
 
 <h1 align="center">
-  hey there
+  Howdy!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhkMmtmYWxnd2FobmlsMTF4dHZwcm42aHlwMTFhNno2NzQ2YTBqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NLHq5dOtUtOUEjOr7W/giphy.gif" width="300" alt="agile"/>
+</div>
