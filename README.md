@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/miguelgironp/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://x.com/@mgp_87"  target="_blank">
+  <a href="https://twitter.com/mgp_87"  target="_blank">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter X Badge"/>
   </a>
 </div>
