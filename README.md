@@ -20,9 +20,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhkMmtmYWxnd2FobmlsMTF4dHZwcm42aHlwMTFhNno2NzQ2YTBqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NLHq5dOtUtOUEjOr7W/giphy.gif" width="300" alt="agile"/>
 </div>
 
-<div align="center">
 - :telescope: Currently working as Salesforce Architect and GenAI CTO.
 - :seedling: Learning new languages and technologies.
 - :zap: I build things in my free time.
 - :mailbox: Reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miguelgironp/)
-</div>
