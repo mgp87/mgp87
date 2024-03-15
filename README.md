@@ -56,3 +56,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: Github stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mgp87&theme=dark&background=000000)](https://git.io/streak-stats)
