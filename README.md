@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-X-URL">
-    <img src="https://img.shields.io/badge/mgp_87-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter X Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter X Badge"/>
   </a>
 </div>
 
