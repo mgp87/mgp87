@@ -28,7 +28,7 @@
   
 - :student: Learning new languages and technologies.
   
-- :spades: I build things in my free time.
+- :spades: Building things in my free time.
   
 - :email: Reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miguelgironp/)
 
