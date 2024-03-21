@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter X Badge"/>
   </a>
   <a href="https://mastodon.social/@mgp_87"  target="_blank">
-    <img src="https://img.shields.io/badge/Mastodon-purple?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodo Badge"/>
+    <img src="https://img.shields.io/badge/Mastodon-#17063B?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodo Badge"/>
   </a>
 </div>
 
